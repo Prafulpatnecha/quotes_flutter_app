@@ -1,0 +1,23 @@
+
+List fontsList=[
+  'AlgerianRegular',
+  'AuntieleeLight',
+  'blackchancery',
+  'boldace_brush',
+  'carnevalee_freakshow',
+  'Chameron',
+  'copperplate-gothic-bold',
+  'Futura-Book',
+  'hanken_grotesk',
+  'hey_jack',
+  'MontereyFLFregular',
+  'northwoodhigh',
+  'PG_IsadoraCyrPro-Regular',
+  'ProximaNova-Regular',
+  'red_rock',
+  'romantica',
+  'ScriptMTBold',
+  'TrajanPro-Regular',
+  'vintage',
+  'vivaldi',
+];
